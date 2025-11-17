@@ -2,7 +2,7 @@
 I'm **Ryan Felipe**, a **Game Developer** programming enthusiast, and 3D Modeling student.
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,lua,git)](https://skillicons.dev)
 
 
  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan Felipe&layout=compact)](https://github.com/Ryan Felipe/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryan Felipe&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |  
